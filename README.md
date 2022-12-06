@@ -2,8 +2,6 @@
 <br/>
 <br/>
 
-![이름표](https://user-images.githubusercontent.com/37920379/198839691-1e779037-3a6c-4547-a857-5e60989e9d08.png)
-
 <br/>
 <br/>
 <br/>
@@ -43,30 +41,3 @@
 
 <br/>
 <br/>
-
-<h3 align="center">
-  🐰Contect to Emily🐰
-</h3>
-
-
-<p align="center">
-  <a href="mailto:agrina981008@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/>
-  </a>
-</p>
-
-
-<!--
-**EmilyPaek/EmilyPaek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
