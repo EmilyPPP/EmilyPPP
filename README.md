@@ -1,13 +1,11 @@
-<br/>
-<br/>
-<br/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFD966,100:FFABAB&height=250&section=header&text=🧚‍♀️Emily's%20Github&fontSize=85&reversal=true&animation=fadeIn)
 
-<br/>
-<br/>
-<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilyPPP&layout=compact" />
+</div>
 
 <h3 align="center">
-  🔭My Tech Stack
+  🧜‍♂️Tech Stack🧜‍♂️
 </h3>
   
 <p align="center">
@@ -32,13 +30,14 @@
   <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=Jest&logoColor=white"/>
 </p>
 
-
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=CSharp&logoColor=white"/>&#160;
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.NET&logoColor=white"/>&#160;
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>&#160;
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white"/>&#160;
 </p>
+
+
 
 <br/>
 <br/>
