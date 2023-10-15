@@ -4,16 +4,12 @@
 ### ✨ Platforms & Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
 ![styled-components](https://img.shields.io/badge/styled_components-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white)
 
 ![ReactNative](https://img.shields.io/badge/React_Native-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
 ![ReactQuery](https://img.shields.io/badge/React_Query-FF4154.svg?&style=for-the-badge&logo=ReactQuery&logoColor=white)
 ![Recoil](https://img.shields.io/badge/Recoil-3578E5.svg?&style=for-the-badge&logo=Recoil&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F.svg?&style=for-the-badge&logo=Electron&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue-4FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?&style=for-the-badge&logo=tailwindCSS&logoColor=white)
 
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB.svg?&style=for-the-badge&logo=Yarn&logoColor=white)
